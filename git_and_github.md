@@ -31,5 +31,3 @@ untuk melakukan ini kita perlu melakukan *clone* pada repo di github agar di kom
 
 <br>
 
-## bukti sc membuat akun di github
-![sc](Screenshot%20(1056).png)
